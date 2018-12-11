@@ -1,0 +1,14 @@
+{
+    "name": "hao289/composer",
+    "description": "a composer project",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "hao289",
+            "email": "727238323@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
